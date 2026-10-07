@@ -237,7 +237,8 @@ The Cowrie service was verified as running on the Ubuntu Server.
 
 <img width="1358" height="676" alt="Capture" src="https://github.com/user-attachments/assets/437473ad-aa9a-40d8-bed2-7a2cd90e13d5" />
 <img width="1365" height="711" alt="Capture24" src="https://github.com/user-attachments/assets/02e9e76f-9d75-40be-b0bd-68248e508a9a" />
-<img width="1365" height="711" alt="Capture23" src="https://github.com/user-attachments/assets/bcac214f-a08e-4324-99bb-5cac262921b9" />
+
+
 
 
 | Detail     | Value           |
